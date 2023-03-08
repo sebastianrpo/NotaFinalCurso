@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NotaFinalCurso</string>
+    <string name="final_grade">Calcular nota final</string>
+    <string name="nota_1">Nota 1</string>
+    <string name="practicas_laboratorio">Prácticas de laboratorio (60%)</string>
+    <string name="primer_avance">Primer avance proyecto final (7%)</string>
+    <string name="nota_2">Nota 2</string>
+    <string name="nota_3">Nota 3</string>
+    <string name="segundo_avance">Segundo avance proyecto final (8%)</string>
+    <string name="nota_4">Nota 4</string>
+    <string name="entrega_proyecto">Entrega proyecto final  (25%)</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado</string>
+    <string name="nota_final">Nota final</string>
+</resources>
