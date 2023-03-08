@@ -22,7 +22,7 @@ class CalcularNotaActivity : AppCompatActivity() {
             var nota4 = calcularNotabinding.nota4EditText.text.toString().toDouble()*0.25
             val resultado = nota1+nota2+nota3+nota4
             val info = "Nota final: $resultado"
-            calcularNotabinding.notaFinalTextView.setText(info)
+            calcularNotabinding.notaFinalTextView.setText(info) //Version 1
         }
     }
 }
