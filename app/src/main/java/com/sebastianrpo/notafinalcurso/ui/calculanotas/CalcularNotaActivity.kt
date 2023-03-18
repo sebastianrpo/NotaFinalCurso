@@ -42,11 +42,11 @@ class CalcularNotaActivity : AppCompatActivity() {
                 } else {
                     Toast.makeText(this, getString(R.string.nota_incorrecta), Toast.LENGTH_SHORT)
                         .show()
-                    calcularNotabinding.notaFinalTextView.text = ""
+                    calcularNotabinding.notaFinalTextView.text = getString(R.string.nota_final)
                 }
             } else {
                 Toast.makeText(this, getString(R.string.nota_blanco), Toast.LENGTH_SHORT).show()
-                calcularNotabinding.notaFinalTextView.text = ""
+                calcularNotabinding.notaFinalTextView.text = getString(R.string.nota_final)
             }
         }
     }
