@@ -12,4 +12,6 @@
     <string name="calcular">Calcular</string>
     <string name="resultado">Resultado</string>
     <string name="nota_final">Nota final</string>
+    <string name="nota_incorrecta">Ingresaste nota(s) incorrecta(s)</string>
+    <string name="nota_blanco">Nota(s) no ingresada(s)</string>
 </resources>
